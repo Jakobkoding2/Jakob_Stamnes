@@ -1,6 +1,6 @@
 # Jakob Stamnes
 
-Building AI-powered tools for Norwegian legal, compliance, and document workflows.
+Building tools for Norwegian legal, compliance, and document workflows.
 
 ## Focus areas
 
