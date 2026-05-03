@@ -67,7 +67,6 @@ Based in Norway, I ship end-to-end systems that combine machine learning, docume
 
 ---
 - 🌐 [github.com/Jakobkoding2](https://github.com/Jakobkoding2)
-
+Email: jakobstamnes@outlook.com
 ---
 
-*"Builder of tools for regular use."*
