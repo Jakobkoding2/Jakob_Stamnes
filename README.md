@@ -2,7 +2,7 @@
 
 I build small tools focused on Norwegian legal tech, compliance, and economics.
 
-**Contact:** jakob.stamnes@outlook.com
+**Contact:** jakobstamnes@outlook.com
 
 ---
 
