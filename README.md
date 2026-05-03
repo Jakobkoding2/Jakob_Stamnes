@@ -66,10 +66,6 @@ Based in Norway, I ship end-to-end systems that combine machine learning, docume
 - 🔧 **End-to-end builder** — from data pipelines and model training to deployment, payments, and user interfaces
 
 ---
-
-## Let's Connect
-
-- 📧 jakobstames@gmail.com
 - 🌐 [github.com/Jakobkoding2](https://github.com/Jakobkoding2)
 
 ---
