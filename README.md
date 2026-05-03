@@ -28,10 +28,7 @@ Short-term CPI forecasting using Norwegian economic data.
 |---|---|---|
 | [dokument-ai](https://github.com/Jakobkoding2/dokument-ai) | Document parsing for invoices, receipts, and contracts | JavaScript, OCR |
 | [tilrettelegging-bot](https://github.com/Jakobkoding2/tilrettelegging-bot) | Reads medical docs and suggests exam accommodations | JavaScript |
-| [Object-Detection](https://github.com/Jakobkoding2/Object-Detection) | Grocery shelf detection, built for NM i AI 2026 | Python, YOLOv8 |
 | [Boliglån-MCP](https://github.com/Jakobkoding2/Boliglån-MCP) | Mortgage data from Finansportalen + Norges Bank via MCP | Python |
-| [job-scraper](https://github.com/Jakobkoding2/job-scraper) | Scrapes Finn.no and NAV job listings to Excel | Python |
-| [garmin-mcp-cloud](https://github.com/Jakobkoding2/garmin-mcp-cloud) | Garmin fitness data via MCP | JavaScript |
 
 ---
 
